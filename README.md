@@ -28,3 +28,16 @@ Think of this as an AI assistant for your code! **PR Gatekeeper** uses LangChain
 1. Clone the repository:
    ```bash
    git clone [https://github.com/charansridev/pr-gatekeeper.git](https://github.com/charansridev/pr-gatekeeper.git)
+
+   
+2. Install the required packages (example for Python):
+   ```bash
+   pip install -r requirements.txt
+
+3. Add your AI API keys to an environment file (.env).
+
+4. Run the bot!
+
+
+Built by Charan Sri Dev
+
